@@ -34,6 +34,8 @@ __*DISCLAIMER: All dataset or report do not represent any company. But just a du
 
 •	Excel pivot chart
 
+•	Slicers
+
 ## Data Cleaning
 
 I started by thoroughly cleaning the dataset to improve data efficiency, and eliminate data inconsistencies by:
@@ -75,7 +77,7 @@ This report equips the organization with actionable insights to:
 
 •	Invest more in product and channels that yield higher returns
 
-•	Improve marketing precision through age-based customer segmentation
+•	Improve marketing on the under-performing products.
 
 By transforming raw data into visual intelligence, this dashboard becomes a decision-making tool for strategic growth and customer retention.
 
